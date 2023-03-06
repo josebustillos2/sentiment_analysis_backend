@@ -1,0 +1,6 @@
+psycopg2-binary
+Django>=3.0,<4.0
+djangorestframework
+textblob
+tweepy
+environs
